@@ -1,5 +1,7 @@
 # aio-edge-heartbeat
 
+NOTE: THIS MODULE IS IN DEVELOPMENT AND NOT AVAILABLE FOR PRODUCTION YET!
+
 This solution offers a Azure IoT Operations module for a heartbeat.
 
 ## Azure IoT Edge equivalent
